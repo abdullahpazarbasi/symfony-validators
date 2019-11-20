@@ -1,2 +1,2 @@
-# symfony-validators
+# Symfony Framework Validators
 Symfony Framework Validators
