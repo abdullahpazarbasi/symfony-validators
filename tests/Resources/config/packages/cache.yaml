@@ -1,0 +1,9 @@
+framework:
+    cache:
+        pools:
+            cache.annotations:
+                adapter: cache.adapter.doctrine
+
+services:
+    cache.adapter.doctrine:
+        class: Symfony\Component\Cache\Adapter\DoctrineAdapter
